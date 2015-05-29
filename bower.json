@@ -1,0 +1,7 @@
+{
+    "name": "fake-apple-watch",
+    "version": "0.0.0",
+    "dependencies": {
+        "react": "~0.5.1"
+    }
+}
